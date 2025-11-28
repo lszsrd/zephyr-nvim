@@ -71,7 +71,7 @@ local syntax = {
   Folded = { fg = z.lignt_orange, bg = z.bg_highlight },
   EndOfBuffer = { fg = z.bg, bg = z.none },
   IncSearch = { fg = z.bg1, bg = z.orange},
-  Search = { fg = z.bg, bg = z.green},
+  Search = { fg = z.bg, bg = z.cyan},
   ColorColumn = { bg = z.bg_highlight },
   Conceal = { fg = z.green, bg = z.none },
   Cursor = { bg = z.none, reverse = true },
