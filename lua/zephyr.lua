@@ -70,7 +70,7 @@ local syntax = {
   VertSplit = { fg = z.black, bg = z.bg },
   Folded = { fg = z.lignt_orange, bg = z.bg_highlight },
   EndOfBuffer = { fg = z.bg, bg = z.none },
-  IncSearch = { fg = z.bg1, bg = z.orange },
+  IncSearch = { fg = z.bg1, bg = z.red},
   Search = { fg = z.bg, bg = z.orange },
   ColorColumn = { bg = z.bg_highlight },
   Conceal = { fg = z.green, bg = z.none },
